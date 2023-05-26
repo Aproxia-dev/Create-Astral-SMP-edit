@@ -1,8 +1,5 @@
-[![Mod Loader](https://img.shields.io/badge/Mod%20Loader-Fabric-blue?style=for-the-badge "Fabric")](https://fabricmc.net/use/installer/)
-[![Curseforge Page](https://img.shields.io/badge/Curseforge-Page-orange?style=for-the-badge&logo=curseforge "Curseforge")](https://www.curseforge.com/minecraft/modpacks/create-astral)
-[![](https://dcbadge.vercel.app/api/server/mNeHyuZdqm)](https://discord.gg/mNeHyuZdqm)
-
-# Create-Astral-SMP-edit
+[![Mod Loader](https://img.shields.io/badge/Mod%20Loader-Quilt-magenta?style=for-the-badge "Quilt")](https://quiltmc.org/en/)
+# Create: Astral - SMP edit
 
 Personal edit of the Create: Astral modpack for an SMP
 
@@ -18,7 +15,7 @@ This repository uses [packwiz](https://github.com/packwiz/packwiz), which allows
 These instructions will be a simplified version from the [packwiz installer tutorial](https://packwiz.infra.link/tutorials/installing/packwiz-installer/), so if you run into any issues you should look there.
 First, clone this repository to wherever you want and use your code editor of choice.
 
-To start, make sure you have [Prism Launcher](https://prismlauncher.org/)
+To start, make sure you have [Prism Launcher](https://prismlauncher.org/), or a similar launcher.
 
 Create an instance in the launcher with just the minecraft version (1.18.2), and quilt version (0.18.10). Increase memory allocation if you want to (you probably do)
 
