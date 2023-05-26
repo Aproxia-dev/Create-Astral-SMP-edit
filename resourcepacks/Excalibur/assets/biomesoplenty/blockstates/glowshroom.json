@@ -1,0 +1,10 @@
+{
+    "variants": {
+        "": [	
+            { "model": "biomesoplenty:block/glowshroom"	},
+            { "model": "biomesoplenty:block/glowshroom", "y": 90 },
+            { "model": "biomesoplenty:block/glowshroom", "y": 180 },
+            { "model": "biomesoplenty:block/glowshroom", "y": 270 }				
+		]
+    }
+}		

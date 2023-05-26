@@ -1,0 +1,13 @@
+name = "Adopt a Floppa"
+filename = "adopt-a-floppa-1.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "97aa067117d82b73627e7213160a3b0255af56e7"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4376290
+project-id = 682927

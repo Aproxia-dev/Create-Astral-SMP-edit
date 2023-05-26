@@ -1,0 +1,10 @@
+{
+    "variants": {
+        "": [
+			{ "model": "biomesoplenty:block/violet" },
+			{ "model": "biomesoplenty:block/violet", "y": 90 },
+			{ "model": "biomesoplenty:block/violet", "y": 180 },
+			{ "model": "biomesoplenty:block/violet", "y": 270 }
+		]
+    }
+}

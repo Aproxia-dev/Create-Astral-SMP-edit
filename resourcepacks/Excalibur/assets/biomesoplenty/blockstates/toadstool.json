@@ -1,0 +1,10 @@
+{
+    "variants": {
+        "": [	
+            { "model": "biomesoplenty:block/toadstool"	},
+            { "model": "biomesoplenty:block/toadstool", "y": 90 },
+            { "model": "biomesoplenty:block/toadstool", "y": 180 },
+            { "model": "biomesoplenty:block/toadstool", "y": 270 }				
+		]
+    }
+}		

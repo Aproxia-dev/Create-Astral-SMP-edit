@@ -1,0 +1,27 @@
+{
+    "variants": {
+		"": [
+            { "model": "biomesoplenty:block/flesh", "weight": 150},
+			{ "model": "biomesoplenty:block/flesh", "y": 90, "weight": 150},
+			{ "model": "biomesoplenty:block/flesh", "x": 90, "weight": 150},
+			{ "model": "biomesoplenty:block/flesh", "y": 180, "weight": 150},
+			{ "model": "biomesoplenty:block/flesh", "x": 180, "weight": 150},
+			{ "model": "biomesoplenty:block/flesh", "y": 270, "weight": 150},
+			{ "model": "biomesoplenty:block/flesh", "x": 270, "weight": 150},
+			{ "model": "biomesoplenty:block/flesheye", "weight": 5},
+			{ "model": "biomesoplenty:block/flesheye", "y": 90, "weight": 5},
+			{ "model": "biomesoplenty:block/flesheye", "x": 90, "weight": 5},
+			{ "model": "biomesoplenty:block/flesheye", "y": 180, "weight": 5},
+			{ "model": "biomesoplenty:block/flesheye", "x": 180, "weight": 5},
+			{ "model": "biomesoplenty:block/flesheye", "y": 270, "weight": 5},
+			{ "model": "biomesoplenty:block/flesheye", "x": 270, "weight": 5},
+			{ "model": "biomesoplenty:block/fleshmouth", "weight": 1},
+			{ "model": "biomesoplenty:block/fleshmouth", "y": 90, "weight": 1},
+			{ "model": "biomesoplenty:block/fleshmouth", "x": 90, "weight": 5},
+			{ "model": "biomesoplenty:block/fleshmouth", "y": 180, "weight": 1},
+			{ "model": "biomesoplenty:block/fleshmouth", "x": 180, "weight": 5},
+			{ "model": "biomesoplenty:block/fleshmouth", "x": 270, "weight": 5},
+			{ "model": "biomesoplenty:block/fleshmouth", "y": 270, "weight": 1}
+			]
+    }
+}

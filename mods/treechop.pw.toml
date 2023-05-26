@@ -1,0 +1,13 @@
+name = "HT's TreeChop"
+filename = "TreeChop-1.18.2-fabric-0.17.7l.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/gHoB7SHO/versions/FFqXL1A5/TreeChop-1.18.2-fabric-0.17.7l.jar"
+hash-format = "sha1"
+hash = "c3743dc2f52da2f884f8e59cc63d72b09838a2db"
+
+[update]
+[update.modrinth]
+mod-id = "gHoB7SHO"
+version = "FFqXL1A5"

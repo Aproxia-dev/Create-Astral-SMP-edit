@@ -1,0 +1,10 @@
+{
+    "variants": {
+    "": [
+	{ "model": "biomesoplenty:block/pink_daffodil" },
+    { "model": "biomesoplenty:block/pink_daffodil", "y": 180 },
+    { "model": "biomesoplenty:block/pink_daffodil", "y": 270 },
+    { "model": "biomesoplenty:block/pink_daffodil", "y": 90 }
+]	
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "variants": {
+        "": [
+			{ "model": "biomesoplenty:block/pink_hibiscus" },
+			{ "model": "biomesoplenty:block/pink_hibiscus", "y": 90 },
+			{ "model": "biomesoplenty:block/pink_hibiscus", "y": 180 },
+			{ "model": "biomesoplenty:block/pink_hibiscus", "y": 270 }
+			]
+    }
+}

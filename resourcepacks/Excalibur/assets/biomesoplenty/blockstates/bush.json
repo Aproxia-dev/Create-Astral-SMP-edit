@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "": [
+		{ "model": "biomesoplenty:block/bush" },
+		{ "model": "biomesoplenty:block/bush0" }
+		]
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "textures": {
+        "bottom": "biomesoplenty:block/mangrove_root_bottom",
+		"particle" : "biomesoplenty:block/mangrove_root_bottom"
+    },
+    "elements": [
+        {
+            "from": [ 8, 0, -8 ], 
+            "to": [ 8, 32, 24 ], 
+            "shade": false,
+            "rotation": { "origin": [ 8, 8, 8 ], "axis": "y", "angle": 45.0 },
+            "faces": {
+                "east": { "texture": "#bottom", "uv": [ 0, 0, 16, 16 ] },
+                "west": { "texture": "#bottom", "uv": [ 0, 0, 16, 16 ] }
+            }
+        },
+        {
+            "from": [ -8, 0, 8 ], 
+            "to": [ 24, 32, 8 ], 
+            "shade": false,
+            "rotation": { "origin": [ 8, 8, 8 ], "axis": "y", "angle": 45.0 },
+            "faces": {
+                "north": { "texture": "#bottom", "uv": [ 0, 0, 16, 16 ] },
+                "south": { "texture": "#bottom", "uv": [ 0, 0, 16, 16 ] }
+            }
+        }
+    ]
+}

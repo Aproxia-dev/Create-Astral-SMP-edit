@@ -1,0 +1,13 @@
+name = "Nyf's Wearable Backpacks"
+filename = "wearablebackpacks-fabric-1.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8eb1e982ff70bbed94c36e53cd127cea20cd5e03"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4069622
+project-id = 636229
