@@ -17732,6 +17732,16 @@ hash = "5554242e1ff0ab715b37fcf41de5048a73de5174dcf6d5cf3a62dab91c7212b9"
 metafile = true
 
 [[files]]
+file = "mods/midnightcontrols-extra.pw.toml"
+hash = "563a2484af46ebe381f606733cce8e75450dc8de141a115bb82120ddfc47d535"
+metafile = true
+
+[[files]]
+file = "mods/midnightcontrols.pw.toml"
+hash = "1151475f35a31dac4ce1d33c77a3fab968f1fe70be98676523108f9d7f38787d"
+metafile = true
+
+[[files]]
 file = "mods/midnightlib.pw.toml"
 hash = "66da572768333848a6ad0b798c955966956cf63fdf72770260db8909acfe5c4d"
 metafile = true
@@ -17854,6 +17864,11 @@ metafile = true
 [[files]]
 file = "mods/polymorph-fabric.pw.toml"
 hash = "8af8ebe6e89a19e72901dac8581a87b251e19faba856459379456306bfb12267"
+metafile = true
+
+[[files]]
+file = "mods/presence-footsteps.pw.toml"
+hash = "3536ef11faf8108f2f925487b793a7f19fee9c67b270594e0f63f44f9d0c26ff"
 metafile = true
 
 [[files]]
