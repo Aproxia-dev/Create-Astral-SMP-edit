@@ -2,6 +2,11 @@ name = "Sound Physics Remastered"
 filename = "soundphysics-fabric-1.18.2-1.0.6.jar"
 side = "both"
 
+[option]
+optional = true
+default = true
+description = "A realistic sound engine. Most noticeable change is that there's echo in caves now."
+
 [download]
 hash-format = "sha1"
 hash = "414615a585c0d26bbf25f66a6608f06606fda4a5"

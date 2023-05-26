@@ -2,6 +2,11 @@ name = "ExtraSounds"
 filename = "extrasounds-2.3.1+1.18.2.jar"
 side = "client"
 
+[option]
+optional = true
+default = true
+description = "Adds noises to GUIs! Whenever you pick up or place a block in a GUI, there will be a sound related to that block! Minor, but really neat change!"
+
 [download]
 url = "https://cdn.modrinth.com/data/uPWCQrVL/versions/2.3.1%2B1.18/extrasounds-2.3.1%2B1.18.2.jar"
 hash-format = "sha1"

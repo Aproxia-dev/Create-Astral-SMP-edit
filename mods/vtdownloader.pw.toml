@@ -2,6 +2,11 @@ name = "VTDownloader"
 filename = "vt-downloader-1.0.6+1.18.jar"
 side = "client"
 
+[option]
+optional = true
+default = true
+description = "Lets you download Vanilla Tweaks resource packs straight from the game."
+
 [download]
 url = "https://cdn.modrinth.com/data/1E2sq1cp/versions/1.0.6%2B1.18/vt-downloader-1.0.6%2B1.18.jar"
 hash-format = "sha1"

@@ -2,6 +2,11 @@ name = "Better Third Person"
 filename = "BetterThirdPerson-Fabric-1.18.2-1.8.1.jar"
 side = "both"
 
+[option]
+optional = true
+default = true
+description = "Makes third person a little bit easier to navigate."
+
 [download]
 hash-format = "sha1"
 hash = "93f8cb4432cbf3948f9abd7e226b15546bf23cf5"

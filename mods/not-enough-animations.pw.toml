@@ -2,6 +2,11 @@ name = "Not Enough Animations"
 filename = "notenoughanimations-fabric-1.6.0-mc1.18.2.jar"
 side = "client"
 
+[option]
+optional = true
+default = true
+description = "Adds more animations. The player actually looks like they're climbing up ladders and eating now (insane)"
+
 [download]
 url = "https://cdn.modrinth.com/data/MPCX6s5C/versions/1.6.0-fabric-1.18/notenoughanimations-fabric-1.6.0-mc1.18.2.jar"
 hash-format = "sha1"

@@ -2,6 +2,11 @@ name = "First-person Model"
 filename = "firstperson-fabric-2.2.2-mc1.18.2.jar"
 side = "client"
 
+[option]
+optional = true
+default = false
+description = "Displays your player model in the first-person view. Can feel very foreign, but it looks really nice."
+
 [download]
 url = "https://cdn.modrinth.com/data/H5XMjpHi/versions/OyYEArCd/firstperson-fabric-2.2.2-mc1.18.2.jar"
 hash-format = "sha1"
