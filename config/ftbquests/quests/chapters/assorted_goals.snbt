@@ -953,7 +953,7 @@
 			tasks: [{
 				id: "18650A6066610756"
 				type: "item"
-				item: "camsbackpacks:white_backpack"
+				item: "wearablebackpacks:backpack"
 			}]
 			rewards: [{
 				id: "1E0A00A53BFB7196"

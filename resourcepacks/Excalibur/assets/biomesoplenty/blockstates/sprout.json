@@ -1,8 +1,0 @@
-{
-    "variants": {
-        "": [
-			{ "model": "biomesoplenty:block/sprout" },
-			{ "model": "biomesoplenty:block/sprout0" }
-			]
-    }
-}

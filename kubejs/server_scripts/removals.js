@@ -423,6 +423,7 @@ onEvent("recipes", (event) => {
         { output: "campanion:mre" },
         { output: "campanion:day_pack" },
         { output: "campanion:camping_pack" },
+        { output: "campanion:sleeping_bag" },
         { output: "campanion:wooden_spear" },
         { output: "campanion:stone_spear" },
         { output: "campanion:iron_spear" },
@@ -460,7 +461,7 @@ onEvent("recipes", (event) => {
         { output: "computercraft:computer_advanced" },
         { output: "computercraft:pocket_computer_advanced" },
 
-        { mod: "camsbackpacks", input: "minecraft:chest" },
+        { mod: "wearablebackpacks", input: "minecraft:gold_ingot" },
 
         // Minecraft
 

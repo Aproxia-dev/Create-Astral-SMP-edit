@@ -808,12 +808,12 @@ onEvent("recipes", (event) => {
         }
     );
 
-    event.shaped("camsbackpacks:white_backpack", ["ABA", "CDE", "FAF"], {
+    event.shaped("wearablebackpacks:backpack", ["ABA", "CDE", "FAF"], {
         A: "farmersdelight:canvas",
-        B: "minecraft:crafting_table",
+        B: "#minecraft:wool",
         C: "campanion:leather_pouch",
         D: "minecraft:barrel",
-        E: "campanion:sleeping_bag",
+        E: "#comforts:sleeping_bags",
         F: "campanion:rope",
     });
     event.shaped("campanion:tent_bag", [" A ", "ABA", " A "], {

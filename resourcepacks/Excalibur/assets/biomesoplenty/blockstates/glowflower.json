@@ -1,8 +1,0 @@
-{
-    "variants": {
-        "": [
-			{ "model": "biomesoplenty:block/glowflower" },
-			{ "model": "biomesoplenty:block/glowflower0" }
-			]
-    }
-}

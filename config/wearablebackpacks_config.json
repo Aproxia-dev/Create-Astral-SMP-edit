@@ -1,0 +1,9 @@
+{
+  "rows": 4,
+  "columns": 9,
+  "backpackDefenseLevel": 2,
+  "canEquipFromInventory": true,
+  "canOpenWithHand": true,
+  "canOpenWhileEquipped": true,
+  "entityBackpackChance": 10
+}
