@@ -6,7 +6,7 @@ Personal edit of the Create: Astral modpack for an SMP
 Suggestions and Bugs should go in [Issues](https://github.com/Aproxia-dev/Create-Astral-SMP-edit/issues), be as detailed as possible so things can be easy to add or fix!
 
 Does not include mods, or most configs.
-Just pack specific stuff which is used when compiling the pack for curseforge.
+Just pack specific stuff which is used when compiling the pack.
 
 ## Contributing
 
